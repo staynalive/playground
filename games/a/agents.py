@@ -5,6 +5,7 @@ import pickle
 import time
 import threading
 import os
+import docker
 
 
 class Agent(object):
